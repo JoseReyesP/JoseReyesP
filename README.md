@@ -8,7 +8,7 @@ Hi, I'm Jose Reyes P!
 
 <hr>
 <div>  
-<img align="left" src="[https://i.pinimg.com/originals/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.png](https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg)" alt="AI Art Lofi Vibes" height="250" />
+<img align="left" src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg" alt="AI Art Lofi Vibes" height="250" />
 <br>
 
 ```
